@@ -21,8 +21,8 @@ To use the application, simply open the webpage in a browser. Users can navigate
 
 ## Deployment
 
-The project is deployed using Netlify. Click [here](NETLIFY_LINK_HERE) to view the deployed version.
+The project is deployed using Netlify. Click [here](https://nasa-api-photos.netlify.app/) to view the deployed version.
 
 ## Preview
 
-[![Preview](preview.png)](NETLIFY_LINK_HERE)
+[![Preview](preview.png)](https://nasa-api-photos.netlify.app/)
